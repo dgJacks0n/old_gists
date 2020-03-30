@@ -1,0 +1,1 @@
+Record and auto-install packages afer updating R

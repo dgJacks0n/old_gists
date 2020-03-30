@@ -1,0 +1,1 @@
+Include child scripts in a knitr report

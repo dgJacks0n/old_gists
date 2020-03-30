@@ -1,0 +1,1 @@
+Extract column labels from sas bdat file

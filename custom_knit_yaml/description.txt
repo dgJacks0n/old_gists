@@ -1,0 +1,1 @@
+Redirect output from RStudio 'knit' button

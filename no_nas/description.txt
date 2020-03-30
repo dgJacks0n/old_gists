@@ -1,0 +1,1 @@
+Exclude NA rows from programmatically-specified column using dplyr
